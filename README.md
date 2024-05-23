@@ -1,5 +1,5 @@
-# Analisis_de_datos_Millonarios_FC_2023-2024
-![](https://github.com/giolml/Analisis_de_datos_Millonarios_FC_2023-2024/blob/main/millonarios-fc.png)
+# Analisis_de_datos_2023-2024
+![](https://github.com/giolml/Analisis_de_datos_Millonarios_FC_2023-2024/blob/main/millonarios-fc.png)\n
 Este repositorio contiene scripts y notebooks para el análisis de datos del rendimiento de Millonarios FC en la temporada 2023-2024. Los datos utilizados provienen de fuentes públicas y se analizan utilizando técnicas de web scraping, estadística descriptiva, visualización de datos y aprendizaje automático.
 
 ## Objetivos del proyecto
